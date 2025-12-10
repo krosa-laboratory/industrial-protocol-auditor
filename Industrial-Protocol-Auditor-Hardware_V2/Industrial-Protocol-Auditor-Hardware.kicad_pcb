@@ -5509,7 +5509,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "2ff9a264-efc1-42de-a00d-6be12768038e")
+			(uuid "73de83ad-8cb3-44ec-bbd6-b0465d5352ef")
 		)
 		(pad "2" smd roundrect
 			(at -3.98 2.25 270)
@@ -6511,7 +6511,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "45ecdf17-a182-47d7-967e-6e67d20de881")
+			(uuid "dc1c6100-2458-4ce6-aa14-fbbe7da8915e")
 		)
 		(pad "2" smd roundrect
 			(at 3.98 2.25 90)
@@ -6521,7 +6521,7 @@
 			(net 41 "/SW_RIG")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8e25fed4-f36e-47c3-b73e-8ba903ac2677")
+			(uuid "830d565e-079c-4439-9072-b8276b87b3fd")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645Sx43SMTR92.step"
@@ -10328,7 +10328,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c8970c42-40ee-4828-bdae-007d8673ee39")
+			(uuid "3159c9e2-c24c-4d0a-8a8d-3631f0fa2f69")
 		)
 		(pad "2" smd roundrect
 			(at 3.98 2.25 180)
@@ -10338,7 +10338,7 @@
 			(net 38 "/SW_UP")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "df13b97a-86ba-4e92-a509-cc889bb3e92b")
+			(uuid "dca24ec1-1ad6-4d3b-9713-39e02505f088")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645Sx43SMTR92.step"
@@ -12205,7 +12205,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b3a2ea10-63f3-4665-896d-649869418c2b")
+			(uuid "1e8b6d9d-525a-4c7f-beda-3e68d3736cb8")
 		)
 		(pad "2" smd roundrect
 			(at -3.98 2.25 180)
@@ -15612,7 +15612,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "55467bca-7576-440a-9666-888b540657bc")
+			(uuid "c1714a41-ddd6-4a35-b75a-3ef4c0dea5f8")
 		)
 		(pad "2" smd roundrect
 			(at 3.98 2.25 180)
@@ -15622,7 +15622,7 @@
 			(net 37 "/SW_OK")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "77bfeabf-eacd-4e70-87e4-7c0721e5fd4a")
+			(uuid "38adf641-071b-48f2-8150-8acae70fe401")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645Sx43SMTR92.step"
